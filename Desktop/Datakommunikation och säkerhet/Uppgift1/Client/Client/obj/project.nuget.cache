@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qHFCEUpZMIOJCw8L0aQtggB4crdiwB882AZHsWBwGuwCKf3rk74WDaxIhcWtsqymnB1rZUDamdgtSRG0Ny20tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\axelm\\Desktop\\Datakommunikation och säkerhet\\Uppgift1\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\axelm\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
